@@ -9,7 +9,7 @@ const Navbar = () => {
 
   return (
     <div className="navbar-container">
-      <p className="logo">
+      {/* <p className="logo">
         <Link href="/">Kelvin Headphones</Link>
       </p>
 
@@ -18,7 +18,7 @@ const Navbar = () => {
         <span className="cart-item-qty">{totalQuantities}</span>
       </button>
 
-      {showCart && <Cart />}
+      {showCart && <Cart />} */}
     </div>
   )
 }
