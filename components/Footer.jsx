@@ -5,7 +5,7 @@ import Link from 'next/link';
 const Footer = () => {
   return (
     <div className="footer-container">
-      <h1>Under contruction👷🏽‍♀️</h1>
+      <h1>Under contruction 👷🏽‍♀️</h1>
       <p className="icons">
 
       <Link href="https://instagram.com/moni.luv.22?igshid=YzgyMTM2MGM=">
